@@ -1,0 +1,45 @@
+{
+  "name": "js-highlighter",
+  "version": "0.1.0",
+  "description": "💡 A library for highlighting HTML elements, which allows an infinite level of depth. 💡",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": ["lib/**/*"],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdel-Mecheri/js-highlighter.git"
+  },
+  "keywords": [
+    "highlighter",
+    "highlight",
+    "highlighting",
+    "highlighting-elements",
+    "highlighting-html-elements",
+    "highlighting-html",
+    "comments",
+    "comment",
+    "commenting",
+    "commenting-elements",
+    "commenting-html-elements",
+    "commenting-html",
+    "js",
+    "javascript",
+    "typescript",
+    "ts",
+    "html",
+    "dom"
+  ],
+  "author": "Abdel Mecheri <abdel-ghani.mecheri@epitech.eu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdel-Mecheri/js-highlighter/issues"
+  },
+  "homepage": "https://github.com/Abdel-Mecheri/js-highlighter#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
